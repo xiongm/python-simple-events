@@ -4,6 +4,7 @@ A simple json serialize/deserilize library with a event class
 
 ## Tests
 ```
+export PYTHONPATH=.
 python3 ./tests/serializable_ut.py
 ```
 
